@@ -1,7 +1,9 @@
 # Data science using python
-This is a git repository similar to the data science repository. Whereas the [data science](https://github.com/HarshaAsh/data_science) repository is used for explaining the data science topics using R, this repository is used to explain the topics in a jupyter notebook using python.
+Hi. My name is Harsha Achyuthuni. I am currently working aas a senior business analyst at Tesco while studying MSc in Business analytics at Imperial college London (part-time). This website is a replica of my blog www.harshaash.com. While the blog at harshaash.com is built using R codes, the posts in this repo contain the same content, but using python.  
 
-## Topics covered:
+## Basics:
 1. [Introduction to visualization](https://harshaash.github.io/ClassificationModels/Basics/Data%20visualization%20part%201.html)  
 2. [Introduction to statistics](https://harshaash.github.io/ClassificationModels/Basics/Statistics%20basics%20part%201.html)  
-3. KNN Model training and parameters
+ 
+## Predictive analytics
+1. KNN Model training and parameters
