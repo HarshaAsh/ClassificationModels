@@ -9,4 +9,4 @@ Hi. My name is Harsha Achyuthuni. I am currently working as a data science consu
 1. KNN Model training and parameters
 
 ## Networks
-1. [network cience introduction](https://harshaash.github.io/ClassificationModels/Networks/Network%20Science.html)
+1. [Network science introduction](https://harshaash.github.io/ClassificationModels/Networks/Network%20Science.html)
